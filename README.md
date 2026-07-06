@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
 
-
 <p align="center">
   <!-- Rocket/Launch Animation -->
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" />
